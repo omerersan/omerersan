@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ömer Ersan</h1>
 <h3 align="center">I’m currently in my final year of studying Computer Programming at İstinye University.</h3>
 
-- 🔭 I’m currently working on **[Proje Adı / Alan]**
-- 🌱 I’m currently learning **[Teknoloji veya Konu]**
-- 👯 I’m looking to collaborate on **[Proje/Fikir]**
-- 🤝 I’m looking for help with **[Zorlandığın konu varsa buraya yazabilirsin]**
-- 💬 Ask me about **[Uzmanlık alanların]**
-- 📫 How to reach me: **[Email, LinkedIn vb.]**
-- ⚡ Fun fact: **[İlginç bir gerçek / mizahi bir cümle]**
+- 🔭 I’m currently working on **QuizApp**
+- 🌱 I’m currently learning ****
+- 👯 I’m looking to collaborate on ****
+- 💬 Ask me about ****
+- 📫 How to reach me: **Email**
 
 ---
 
